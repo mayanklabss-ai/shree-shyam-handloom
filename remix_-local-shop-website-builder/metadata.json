@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Local Shop Website Builder",
+  "description": "Create and manage a modern local business website without coding. Customize products, contact info, WhatsApp order links, and Google Maps instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
